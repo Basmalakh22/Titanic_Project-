@@ -1,7 +1,3 @@
-# Titanic_Project
-
----
-
 # Titanic Data Analysis 
 
 ## Project Overview
@@ -44,6 +40,4 @@ We use **Python** and **Matplotlib** for data analysis and visualization.
 
 ---
 
-ذابة أكثر للزائرين 🔥
-هل تحبي أعملها؟
-
+ 
